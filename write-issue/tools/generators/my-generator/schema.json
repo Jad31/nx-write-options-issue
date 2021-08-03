@@ -1,0 +1,7 @@
+{
+  "cli": "nx",
+  "id": "my-generator",
+  "type": "object",
+  "properties": {
+  }
+}
